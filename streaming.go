@@ -1,3 +1,6 @@
+// Proyecto: Sistema de Gestión de Streaming en Go
+// Autor: Andrés Montesdeoca
+// Fecha: Junio 2025
 package main
 
 import (
